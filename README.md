@@ -1,4 +1,4 @@
-# indicia-app
+# Indicia
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,119 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-indicia-app is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://indicia.app/
+Indicia provides an OSINT platform that enables users to search people, social accounts, usernames, emails, stealer logs, and breach databases across more than 39 intelligence sources. The service aggregates data from various public and private sources, offering a unified interface for investigative research, with features like Discord and Roblox lookups, facial recognition, and network scanning tools.
+
+**Areas:** OSINT · Investigation · Data Aggregation · Cybersecurity · Open Source
+
+## Indicia on APIs.io
+
+Everything profiled for Indicia is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/indicia-app/](https://apis.io/providers/indicia-app/)** — or go straight to one of the APIs or properties below.
+
+### APIs (9)
+
+- [Indicia Activity API](https://apis.io/apis/indicia-app/indicia-app-activity-api/) — The activity API from Indicia — 2 operation(s) for activity.
+- [Indicia Infrastructure API](https://apis.io/apis/indicia-app/indicia-app-infrastructure-api/) — The infrastructure API from Indicia — 13 operation(s) for infrastructure.
+- [Indicia Intelligence API](https://apis.io/apis/indicia-app/indicia-app-intelligence-api/) — The intelligence API from Indicia — 26 operation(s) for intelligence.
+- [Indicia Organizations API](https://apis.io/apis/indicia-app/indicia-app-organizations-api/) — The organizations API from Indicia — 6 operation(s) for organizations.
+- [Indicia Pricing API](https://apis.io/apis/indicia-app/indicia-app-pricing-api/) — The pricing API from Indicia — 1 operation(s) for pricing.
+- [Indicia Socials API](https://apis.io/apis/indicia-app/indicia-app-socials-api/) — The socials API from Indicia — 18 operation(s) for socials.
+- [Indicia Tools API](https://apis.io/apis/indicia-app/indicia-app-tools-api/) — The tools API from Indicia — 6 operation(s) for tools.
+- [Indicia Unified API](https://apis.io/apis/indicia-app/indicia-app-unified-api/) — The unified API from Indicia — 1 operation(s) for unified.
+- [Indicia Users API](https://apis.io/apis/indicia-app/indicia-app-users-api/) — The users API from Indicia — 1 operation(s) for users.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Indicia Agentic Access](https://apis.io/agentic-access/indicia-app/indicia-app-agentic-access/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Indicia App Context](https://apis.io/jsonld/indicia-app/indicia-app-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Indicia API Rules](https://apis.io/rules/indicia-app/indicia-app-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Indicia Authentication](https://apis.io/security/indicia-app/indicia-app-authentication/)
+- [Indicia Domain Security](https://apis.io/security/indicia-app/indicia-app-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://indicia.app/)
+- [Documentation](https://dev.indicia.app/)
+- [Support](https://indicia.app/support)
+- [Terms of service](https://indicia.app/legal/terms)
+- [Privacy policy](https://indicia.app/legal/privacy)
+- [GitHub](https://github.com/indiciateam)
+- [Status](https://status.indicia.app)
+
+## API Evangelist rating
+
+**Kin Score 47.1** — developing · rubric 0.27.0 · scored 2026-11-12
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 48.3 |
+| Contract governance | 79.1 |
+| Operational transparency | 21.1 |
+| Developer ergonomics | 39.8 |
+| Access clarity | 34.2 |
+
+**Agent readiness 55.3** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | paginated |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/indicia-app/](https://apis.io/providers/indicia-app/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Indicia: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/indicia-app/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
